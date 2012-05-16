@@ -54,7 +54,7 @@
 <img src="forkit.gif" id="octocat" alt="" />
 
 <p>
-  Omigosh! Pants!
+  Omigosh! Pants! Monkeys!
 </p>
 <?php include "includes/include.html"; ?>
 <div id="rainbow-message" style="display:none">
