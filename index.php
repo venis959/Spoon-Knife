@@ -56,7 +56,7 @@
 <p>
   Omigosh! Pants!
 </p>
-<?php include "include.html"; ?>
+<?php include "includes/include.html"; ?>
 <div id="rainbow-message" style="display:none">
 Double repositories all the way across the sky!<br/>
 <a href="http://help.github.com/fork-a-repo/">What does it mean?</a>
